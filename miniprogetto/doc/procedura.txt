@@ -1,0 +1,14 @@
+
+creo dizionario dict
+inserisco tutti gli elementi
+per ogni elemento x nel dict aggiungo come dato in lista il prec e il succ
+per ogni elemento x nel dict che ha lista [a1,...an] controllo se ai è in dict(aj)
+se vero stampo x,ai,aj
+
+
+costo:
+O(1)
+O(n)
+O(nr^2)
+O(1)
+O(1)

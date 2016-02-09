@@ -10,7 +10,7 @@ Pagina originale: http://didawiki.cli.di.unipi.it/doku.php/matematica/asd/asd_14
 
 ## Realizzazione
 
-Per la realizzazione del progetto ho usato Python. I testi sono già inseriti in `wiki-small`, basta eseguire algo.py
+Per la realizzazione del progetto ho usato Python. I testi sono già inseriti in `wiki-small`, per lanciare l'algoritmo basta eseguire algo.py
 
 * `EseguiCompleto()` carica tutti i file e crea un nodo per ogni parola, escludendo le stopwords. Dopo la mappatura e un sorting dei vertici viene implementato un algoritmo forward per la ricerca di triangoli.
 * `EseguiProva()` cerca le cliques K_3 in uno solo file, utile ai fini di test.
